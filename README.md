@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TranspoLord, or Anthony See
 - 👀 I’m interested in video games, game development, software development and programming.
-- 🌱 I’m currently learning Java, C++, C#, Python, and many other things
+- 🌱 I’m currently developing multiple web applications using .NET, React, Vue.js, and other frameworks.
 - 📫 How to reach me anthonyjsee96@gmail.com
 
 <!---
